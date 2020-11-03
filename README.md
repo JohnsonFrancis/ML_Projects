@@ -1,9 +1,17 @@
 # ML_Projects
 This contains small python projects in Machine learning which can be used for learning
 
-1. Incentivize Drivers : Unsupervised learning - KMeans clustering data (Library-sklearn)
-2. Jurassic Park Image segmentation : Unsupervised learning - KMeans clustering image (Library-sklearn)
-3. Zoo Animal Classification : Unsupervised learning - Agglomerative clustering data (Library-sklearn)
-4. Sea Plane Passenger Forecasting : Timeseries Prediction - ARIMA (Library-statsmodels)
-                                                           - SARIMA (Library-statsmodels)
-                                                           - Auto ARIMA (Library-pmdarima)
+## Unsupervised Learning
+### 1. Incentivize Drivers : 
+  - KMeans clustering data (Library-sklearn)
+### 2. Jurassic Park Image segmentation : 
+  - KMeans clustering image (Library-sklearn)
+### 3. Zoo Animal Classification : 
+  - Agglomerative clustering data (Library-sklearn)
+
+<br> <br>
+## Supervised Learning
+### 1. Sea Plane Passenger Forecasting : 
+  - Timeseries Prediction - ARIMA (Library-statsmodels) 
+  - Timeseries Analysis   - Auto ARIMA (Library-pmdarima)
+  - Timeseries Prediction - SARIMA (Library-statsmodels)
