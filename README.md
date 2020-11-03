@@ -8,7 +8,6 @@ This contains small python projects in Machine learning which can be used for le
   - KMeans clustering image (Library-sklearn)
 ### 3. Zoo Animal Classification : 
   - Agglomerative clustering data (Library-sklearn)
-
 <br> <br>
 ## Supervised Learning
 ### 1. Sea Plane Passenger Forecasting : 
