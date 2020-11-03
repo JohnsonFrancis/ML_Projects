@@ -4,7 +4,7 @@ This contains small python projects in Machine learning which can be used for le
 ## Unsupervised Learning
 ### 1. Incentivize Drivers : 
   - KMeans clustering data (Library-sklearn)
-### 2. Jurassic Park Image segmentation : 
+### 2. Jurassic Park Image Segmentation : 
   - KMeans clustering image (Library-sklearn)
 ### 3. Zoo Animal Classification : 
   - Agglomerative clustering data (Library-sklearn)
