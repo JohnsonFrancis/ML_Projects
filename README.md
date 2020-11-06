@@ -14,3 +14,4 @@ This contains small python projects in Machine learning which can be used for le
   - Timeseries Prediction - ARIMA (Library-statsmodels) 
   - Timeseries Analysis   - Auto ARIMA (Library-pmdarima)
   - Timeseries Prediction - SARIMA (Library-statsmodels)
+  - Timeseries Prediction - Prophet (Library-fbprophet)
