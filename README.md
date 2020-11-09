@@ -5,7 +5,7 @@ This contains small python projects in Machine learning which can be used for le
 ### 1. Incentivize Drivers : 
   - KMeans clustering data (Library-scikit-learn)
 ### 2. Jurassic Park Image Segmentation : 
-  - KMeans clustering image (Library-scikit-learn
+  - KMeans clustering image (Library-scikit-learn)
   - Agglomerative clustering data (Library-scikit-learn)
 <br> <br>
 ## Supervised Learning
