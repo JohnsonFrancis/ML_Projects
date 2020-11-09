@@ -6,6 +6,7 @@ This contains small python projects in Machine learning which can be used for le
   - KMeans clustering data (Library-scikit-learn)
 ### 2. Jurassic Park Image Segmentation : 
   - KMeans clustering image (Library-scikit-learn)
+### 3. Zoo Animal Classification : 
   - Agglomerative clustering data (Library-scikit-learn)
 <br> <br>
 ## Supervised Learning
