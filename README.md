@@ -17,3 +17,8 @@ This contains small python projects in Machine learning which can be used for le
   - Timeseries Prediction - Prophet (Library-fbprophet)
 ### 2. Email Sentiment Analysis : 
   - MS Outlook Email Sentiment Analysis - NLP (Library-textblob) 
+  <br> <br>
+## Deep Learning
+### 1. Hand written digits identification : 
+  - Simple Artificial Neural Network (Library-Keras)
+  - Improving accuracy  (Library-Keras)
