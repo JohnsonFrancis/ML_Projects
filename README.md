@@ -20,5 +20,7 @@ This contains small python projects in Machine learning which can be used for le
   <br> <br>
 ## Deep Learning
 ### 1. Hand written digits identification : 
-  - Simple Artificial Neural Network (Library-Keras)
-  - Improving accuracy  (Library-Keras)
+  - Concept of Artificial Neural Network (Library-Keras Sequnetial)
+  - Improving accuracy with Simple ANN  (Library-Keras Sequential)
+  - Improving accuracy with Deep ANN  (Library-Keras Sequential)
+  - Improving accuracy with CNN (Library-Keras Conv2d)
