@@ -24,3 +24,4 @@ This contains small python projects in Machine learning which can be used for le
   - Improving accuracy with Simple ANN  (Library-Keras Sequnetial,Dense)
   - Improving accuracy with Deep ANN  (Library-Keras Sequnetial,Dense)
   - Improving accuracy with CNN (Library-Keras Sequnetial,Conv2D)
+  - Further Improving accuracy with CNN (Library-Keras Sequnetial,Conv2D)
