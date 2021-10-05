@@ -25,3 +25,8 @@ This contains small python projects in Machine learning which can be used for le
   - Improving accuracy with Deep ANN  (Library-Keras Sequnetial,Dense)
   - Improving accuracy with CNN (Library-Keras Sequnetial,Conv2D)
   - Further Improving accuracy with CNN (Library-Keras Sequnetial,Conv2D)
+### 2. Pet Classification : 
+  - CNN 1 Block VGG (Library-Keras Sequnetial,Dense,Conv2D)
+  - CNN 2 Block VGG (Library-Keras Sequnetial,Dense,Conv2D)
+  - CNN 3 Block VGG (Library-Keras Sequnetial,Dense,Conv2D)
+  - CNN 16 Block VGG Transfer Learning (Library-Keras Sequnetial,Dense,Conv2D)
