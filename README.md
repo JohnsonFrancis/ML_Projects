@@ -17,6 +17,14 @@ This contains small python projects in Machine learning which can be used for le
   - Timeseries Prediction - Prophet (Library-fbprophet)
 ### 2. Email Sentiment Analysis : 
   - MS Outlook Email Sentiment Analysis - NLP (Library-textblob) 
+### 3. Movie Rating Predictions : 
+  - Gradient Boost - LGBM (Library-lightgbm) 
+  - Extreme Gradient Boost - XGBoost (Library-xgboost)
+  - Decision Tree ,Random Forest (Library-sklearn)
+  - Bagging, OneVsRest (Library-sklearn)
+  - Support Vector Machine - SVM (Library-sklearn)
+  - KNeighbors (Library-sklearn)
+  - Naive Bayes (Library-sklearn)
   <br> <br>
 ## Deep Learning
 ### 1. Hand written digits identification : 
