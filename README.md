@@ -25,6 +25,8 @@ This contains small python projects in Machine learning which can be used for le
   - Support Vector Machine - SVM (Library-sklearn)
   - KNeighbors (Library-sklearn)
   - Naive Bayes (Library-sklearn)
+### 4. Income Qualification Prediction : 
+  - Random Forest (Library-sklearn)
   <br> <br>
 ## Deep Learning
 ### 1. Hand written digits identification : 
